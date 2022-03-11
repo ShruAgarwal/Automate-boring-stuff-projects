@@ -1,3 +1,3 @@
 # Solution Code Snippets 
 
-**Questions asked in the most famous Python based for beginners book, 'Automate the boring stuff with python' are being solved here according to what I understood...**
+ 🌟 **I have tried to solve these projects according to what I understood from the book. Also, I've learnt a lot from this book!** 😎
